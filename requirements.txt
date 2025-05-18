@@ -1,0 +1,13 @@
+PyQt6
+requests
+transformers
+torch
+sentencepiece
+gTTS
+sacremoses
+pydub
+pygame
+pyttsx3
+SpeechRecognition
+sounddevice
+pyaudio
